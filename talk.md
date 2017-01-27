@@ -116,3 +116,15 @@ Problems:
 - Changelog policy
 - Feature branch base point
 - PEP
+
+---
+
+## Toolbox (shortened, cite Hintjens)
+
+- Strong mission
+- Transparency
+- Remixability
+- Strong protocols
+- Fair authority
+- Smooth learning
+- Minimalism
