@@ -90,3 +90,29 @@ Problems:
 - Do not duplicate information
 - Sometimes an issue discussion grows into another channel
 - Hard to see what problems are still open
+
+---
+
+## C4 process (shortened, cite Hintjens)
+
+- Use a distributed version control
+- Use a web platform
+- Use an issue tracker
+- Only maintainers should have push access to the repository
+- Patches must adhere to contribution guidelines
+- Work on forks
+- Maintainers shall not accept their own patches
+- Maintainers shall not make value judgments on correct patches
+
+---
+
+## Contribution guide
+
+- Code style
+- Testing policy
+- Licensing and copyright transfer
+- Commit messages
+- Code review policy
+- Changelog policy
+- Feature branch base point
+- PEP
