@@ -10,7 +10,7 @@ class: center, middle, inverse
 
 ### [NeIC](https://neic.nordforsk.org)/ [UiT The Arctic University of Norway](https://uit.no)
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+Free to share and remix under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
 
@@ -35,11 +35,11 @@ class: split-50-50
 .column[
 ### Communicate
 
+- Meet and discuss
 - Ask questions
 - Answer questions
-- Meet and discuss
 - Make decisions
-- Documentation
+- Write documentation
 
 ### Coordinate
 
@@ -50,10 +50,12 @@ class: split-50-50
 ### We wish to avoid
 
 - Confusion
-- Ignorance
+- Being uninformed
+- Leaving colleagues uninformed
 - Double work
 - Idling
 - Wasting time
+- Frustration
 ]
 
 ---
@@ -74,11 +76,12 @@ class: split-50-50
 
 - Too much, too many, too soon, too long
 - Often changing subjects
-- No control of whether you want to follow an issue or not
+- Not enough control of whether you want to follow an issue or not
 - No clear lifetime for issues ("is this issue still relevant?")
-- No clear owner ("is this already fixed?")
+- No clear owner ("who is working on it? me?")
 - Easy to write to the wrong audience (forget somebody or reply all)
 - Lost knowledge for people who will join your team later
+- Difficult to find knowledge after some time
 
 .blue[*"I have already made this paper too long, for which I must crave pardon, not having now time to make it shorter."*]
 [Benjamin Franklin]
@@ -93,9 +96,21 @@ class: split-50-50
 
 ## Mailing list
 
-- Hard to search
+- Often difficult to search
 - Hard to see what problems are still open
 - Popular: [Google Groups](https://groups.google.com) (possibly not reachable from China)
+
+## Wikis
+
+- Intuitive
+- Difficult to version
+- Cannot edit at the same time by several people
+
+---
+
+template: inverse
+
+## Why are we using WhatsApp, Hangouts, Facebook Chat, Snapchat, Telegram, ..., and not just email?
 
 ---
 
@@ -116,28 +131,29 @@ class: split-50-50
 ### Alternatives
 
 - [Gitter](https://gitter.im) (unlimited history, open to join)
-- [Mattermost](https://about.mattermost.com) (open source)
+- [Mattermost](https://about.mattermost.com) (open source and you can host it)
 
 ---
 
-## Issues
+## Issue tracking
 
 ### Advantages
 
 - Clearly defined lifetime (auto-close with commit messages)
 - Clearly defined owner
-- Close to the repository (cross-referencing)
+- Close to the repository (possible to cross-reference commits)
 - Easy to follow/unfollow
-- Easy to reference later
+- Easy to reference later (by your .red[future] users and colleagues)
 - @mentions
 
 ### Suggestion
 
+- Track issues on your issue tracker and not via emails
 - Make issues public
 
 ---
 
-## [Trello](https://trello.com)
+## [Trello](https://trello.com): web based project management
 
 ### Advantages
 
@@ -151,43 +167,49 @@ class: split-50-50
 
 ### Would be nice to have "Trello functionality" closer to the code
 
-- [ZenHub](https://www.zenhub.com)
+- [ZenHub](https://www.zenhub.com) for [GitHub](https://github.com)
 - [GitLab Issue Board](https://about.gitlab.com/solutions/issueboard/)
 
 ---
 
-## Wikis
+## Recipe for efficient meetings
 
-Write me ...
+### Prepare
 
----
-
-## Efficient meetings
-
-- Debug the technology (Google Hangouts works)
+- Debug the technology ([Google Hangouts](https://hangouts.google.com) works)
 - Have an agenda, make it accessible, distribute it before the meeting
 - Be on time and stay on time (respect and cost)
-- Take minutes (people who are not able to attend, should get the chance to be informed)
+
+### Document
+
+- Take minutes (people who cannot attend want to be informed)
 - Use **live minutes** (Google Doc which everybody in the meeting can view and edit live at the same time in the same place)
 - Keep the document as a record/trace
-- Document decision points and todo items
-- Todo items need to have an owner
+- Document decision points and todo items (each todo item gets an owner)
 - If relevant, transfer todo items to your progress tracking
 - If you are paid by public money, be transparent about your minutes
 
 ---
 
-## Routines
+template: inverse
 
-- Agree on channels
-- Document your channels (every team will agree on something else)
-- Use the right channel
-- Do not duplicate information
-- Sometimes an issue discussion grows into another channel
+## Recommendations
+
+### There is no one size fits all
 
 ---
 
-## C4 process (shortened, cite Hintjens)
+## Recommendations for communication
+
+- Agree on channels
+- **Document your channels** (every team will agree on something else)
+- Use the right channel (if there is no documentation, how will you know?)
+- Moderate: sometimes you need to move a discussion to a more appropriate channel
+- Do not duplicate information (guarantee for confusion and divergence)
+
+---
+
+## Recommendations for code development
 
 - Use a distributed version control
 - Use a web platform
@@ -198,27 +220,33 @@ Write me ...
 - Maintainers shall not accept their own patches
 - Maintainers shall not make value judgments on correct patches
 
+Source: ZeroMQ [Collective Code Construction Contract](http://rfc.zeromq.org/spec:42) [list shortened]
+
 ---
 
 ## Contribution guide
 
+A contribution guide should document:
+
 - Code style
 - Testing policy
 - Licensing and copyright transfer
-- Commit messages
+- Commit message format
 - Code review policy
 - Changelog policy
 - Feature branch base point
-- Proposals
+- Discussion medium for new features (issues? enhancement proposals?)
 
 ---
 
-## Toolbox (shortened, cite Hintjens)
+## Social architecture toolbox
 
-- Strong mission
-- Transparency
-- Remixability
-- Strong protocols
-- Fair authority
-- Smooth learning
-- Minimalism
+- Strong mission (the stated reason for the group's existence)
+- Transparency (how openly and publicly decisions are made)
+- Remixability (how far contributors can remix each others' work)
+- Strong protocols (how well the rules are written)
+- Fair authority (how well the rules are enforced)
+- Smooth learning (how easy it is to get started and keep learning)
+- Minimalism (how much excess work the group does)
+
+Source: [Pieter Hintjens, Social Architecture, 2009](https://www.gitbook.com/book/hintjens/social-architecture/details) [list shortened]
