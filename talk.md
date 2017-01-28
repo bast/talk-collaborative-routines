@@ -100,12 +100,6 @@ class: split-50-50
 - Hard to see what problems are still open
 - Popular: [Google Groups](https://groups.google.com) (possibly not reachable from China)
 
-## Wikis
-
-- Intuitive
-- Difficult to version
-- Cannot edit at the same time by several people
-
 ---
 
 template: inverse
