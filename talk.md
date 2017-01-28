@@ -110,7 +110,7 @@ class: split-50-50
 
 template: inverse
 
-## Why are we using WhatsApp, Hangouts, Facebook Chat, Snapchat, Telegram, ..., and not just email?
+## Why are we using .red[chat apps] (WhatsApp, Hangouts, Facebook Chat, Snapchat, Telegram, ...) and not just email?
 
 ---
 
@@ -144,7 +144,7 @@ template: inverse
 - Close to the repository (possible to cross-reference commits)
 - Easy to follow/unfollow
 - Easy to reference later (by your .red[future] users and colleagues)
-- @mentions
+- .blue[@mentions]
 
 ### Suggestion
 
