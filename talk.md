@@ -162,26 +162,7 @@ template: inverse
 ### Would be nice to have "Trello functionality" closer to the code
 
 - [ZenHub](https://www.zenhub.com) for [GitHub](https://github.com)
-- [GitLab Issue Board](https://about.gitlab.com/solutions/issueboard/)
-
----
-
-## Recipe for efficient meetings
-
-### Prepare
-
-- Debug the technology ([Google Hangouts](https://hangouts.google.com) works)
-- Have an agenda, make it accessible, distribute it before the meeting
-- Be on time and stay on time (respect and cost)
-
-### Document
-
-- Take minutes (people who cannot attend want to be informed)
-- Use **live minutes** (Google Doc which everybody in the meeting can view and edit live at the same time in the same place)
-- Keep the document as a record/trace
-- Document decision points and todo items (each todo item gets an owner)
-- If relevant, transfer todo items to your progress tracking
-- If you are paid by public money, be transparent about your minutes
+- [GitLab issue board](https://about.gitlab.com/solutions/issueboard/)
 
 ---
 
@@ -245,3 +226,22 @@ A contribution guide should document:
 - Minimalism (how much excess work the group does)
 
 Source: [Pieter Hintjens, Social Architecture, 2009](https://www.gitbook.com/book/hintjens/social-architecture/details) [list shortened]
+
+---
+
+## Recipe for efficient meetings
+
+### Prepare
+
+- Debug the technology ([Google Hangouts](https://hangouts.google.com) works)
+- Have an agenda, make it accessible, distribute it before the meeting
+- Be on time and stay on time (respect and cost)
+
+### Document
+
+- Take minutes (people who cannot attend want to be informed)
+- Use **live minutes** (Google Doc which everybody in the meeting can view and edit live at the same time in the same place)
+- Keep the document as a record/trace
+- Document decision points and todo items (each todo item gets an owner)
+- If relevant, transfer todo items to your progress tracking
+- If you are paid by public money, be transparent about your minutes
