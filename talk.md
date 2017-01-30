@@ -200,6 +200,7 @@ template: inverse
 - Use the right channel (if there is no documentation, how will you know?)
 - Moderate: sometimes you need to move a discussion to a more appropriate channel
 - Do not duplicate information (guarantee for confusion and divergence)
+- Maximize transparency
 
 ---
 
